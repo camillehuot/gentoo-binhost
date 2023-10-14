@@ -1,0 +1,4 @@
+#required by virtual/jre-1.6.0, required by dev-java/java-config-2.1.11-r3
+>=dev-java/sun-jre-bin-1.6.0.37 Oracle-BCLA-JavaSE
+>=www-client/google-chrome-37.0.2062.120_p1 google-chrome
+

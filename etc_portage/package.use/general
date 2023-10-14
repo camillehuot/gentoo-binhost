@@ -1,0 +1,17 @@
+dev-db/mysql -perl
+dev-db/postgresql -server
+dev-lang/php apache2 -berkdb -gdbm curl
+dev-lang/python -gdbm ipv6 -ncurses -readline xml threads #ipv6 pour pypolicyd-spf
+dev-lang/perl -gdbm
+dev-vcs/git -blksha1 -gpg -iconv -pcre -perl -python -webdav -pcre-jit
+media-libs/gd png
+mail-mta/postfix sasl berkdb
+net-ftp/lftp socks5
+net-ftp/vsftpd -ssl -tcpd
+net-misc/ntp -readline
+net-misc/iputils -caps -filecaps
+app-admin/rsyslog -ssl -zlib -mysql gnutls
+app-eselect/eselect-php apache2
+sys-kernel/gentoo-sources symlink
+sys-process/vixie-cron -pam
+virtual/udev hwdb
